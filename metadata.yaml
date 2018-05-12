@@ -1,0 +1,31 @@
+_repo: The-League-of-Nations-and-its-ProblemsThree-Lectures_26023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oppenheim, L. (Lassa)
+    alias: Oppenheim, Lassa Francis Lawrence
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '25139'
+    url: http://www.gutenberg.org/2009/agents/25139
+    wikipedia: http://en.wikipedia.org/wiki/L._F._L._Oppenheim
+description: The aims of the League of Nations -- Organisation and legislation of
+  the League of Nations -- Administration of justice and mediation within the League
+  of Nations.
+gutenberg_issued: '2008-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26023'
+  lccn: '19003004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'League of Nations'
+- !lcc 'JX'
+title: 'The League of Nations and Its Problems: Three Lectures'
+url: http://www.gutenberg.org/ebooks/26023
